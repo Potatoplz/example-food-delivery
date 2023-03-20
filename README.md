@@ -1,13 +1,15 @@
 # [2023-03-21] MSA 과제 
 - 이벤트 스토밍
-![food_delivery](https://user-images.githubusercontent.com/103555301/226354018-6bb2067b-eb8a-4b81-a935-eb2f46d22a90.png)
+![food_delivery](https://user-images.githubusercontent.com/103555301/226355823-ba312d68-b5fe-49f0-b589-a777b460266e.png)
 
 - CQRS
 ![CQRS](https://user-images.githubusercontent.com/103555301/226354848-738dd8e2-0f90-4c28-9a4b-3df15d4488cf.png)
 
 - Compensation / Correlation
   - kafka
+  
   ![카프카](https://user-images.githubusercontent.com/103555301/226355015-0b591c59-3977-4a3b-adaa-8bba8bb2cb1d.png)
+
 
 
 
