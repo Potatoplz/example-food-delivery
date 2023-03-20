@@ -1,9 +1,20 @@
-![image](https://user-images.githubusercontent.com/103555301/224936081-1fc8e50b-477c-4833-9703-2b646081f369.png)
+# [2023-03-21] MSA 과제 
+- 이벤트 스토밍
+![food_delivery](https://user-images.githubusercontent.com/103555301/226354018-6bb2067b-eb8a-4b81-a935-eb2f46d22a90.png)
+
+- CQRS
+![CQRS](https://user-images.githubusercontent.com/103555301/226354848-738dd8e2-0f90-4c28-9a4b-3df15d4488cf.png)
+
+- Compensation / Correlation
+  - kafka
+  ![카프카](https://user-images.githubusercontent.com/103555301/226355015-0b591c59-3977-4a3b-adaa-8bba8bb2cb1d.png)
 
 
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+
 
 # 예제 - 음식배달
+
+![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
