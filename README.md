@@ -32,12 +32,18 @@
   ![배달완료](https://user-images.githubusercontent.com/103555301/226356599-5140c9a4-f526-499e-bd51-f73caf34c049.png)
   
   - 마이페이지
+  
   ![마이페이지-주문접수](https://user-images.githubusercontent.com/103555301/226356246-88f19f0b-142e-4f94-b604-fc39ad3169c5.png)
   ![마이페이지-결제완료](https://user-images.githubusercontent.com/103555301/226357044-ddf4993e-fd6e-49b3-850f-fa4718ff0322.png)
   ![마이페이지-주문수락](https://user-images.githubusercontent.com/103555301/226357062-29d22bf1-088a-44da-bbd2-72e939108456.png)
   ![마이페이지-조리완료](https://user-images.githubusercontent.com/103555301/226357088-9df442d2-597e-4a5e-8f5e-544caed12aad.png)
 
-
+  - store / rider 
+  
+  ![store확인](https://user-images.githubusercontent.com/103555301/226358766-cecfe870-e298-4a52-b253-171e6384e3a9.png)
+  ![라이더확인](https://user-images.githubusercontent.com/103555301/226358773-98bcadc0-2755-4c84-b7f2-77da9d154d44.png)
+  
+---------------------------------------------------------------
 
 # 예제 - 음식배달
 
